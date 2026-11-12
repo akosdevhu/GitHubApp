@@ -37,14 +37,15 @@ The goal is simple: create a cleaner, more intuitive and easier-to-use mobile cl
 
 ## Features
 
-| | Feature |
-|:---:|---|---|
-|**Modern Interface** | A clean and carefully designed interface focused on usability. |
-|**Mobile First** | Designed specifically for comfortable mobile interaction. |
-|**Simplified Experience** | Access the things you need without unnecessary navigation. |
-|**GitHub Integration** | Your GitHub activity and repositories in one convenient place. |
-|**Useful Widgets** | Helpful information and shortcuts presented in an organized way. |
+## Features
 
+| Feature | Description |
+|:---|:---|
+| **Modern Interface** | A clean and carefully designed interface focused on usability. |
+| **Mobile First** | Designed specifically for comfortable mobile interaction. |
+| **Simplified Experience** | Access the things you need without unnecessary navigation. |
+| **GitHub Integration** | Your GitHub activity and repositories in one convenient place. |
+| **Useful Widgets** | Helpful information and shortcuts presented in an organized way. |
 ## The Vision
 
 The official GitHub mobile application provides powerful functionality, but navigating a large development platform on a small screen can sometimes feel complicated.
