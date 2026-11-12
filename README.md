@@ -1,82 +1,64 @@
-
 <div align="center">
+  <img src="banner.png" width="100%" alt="OctoGit Banner" />
 
-<div align="center">
-  <img src="banner.png"
-       width="200%"
-       alt="OctoGit Banner" />
-</div>
+  <br/><br/>
 
-<br/>
+  # OctoGit
 
-# OctoGit
+  ### A better way to experience and edit GitHub on mobile.
 
-### A better way to experience GitHub on mobile.
+  A modern, gesture-driven GitHub client built for real mobile productivity — not just browsing.
 
-A modern, simplified GitHub client designed to make your everyday GitHub experience smoother, faster and more intuitive.
+  <br/>
 
-<br/>
-
-![Platform](https://img.shields.io/badge/Platform-Mobile-blue?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-
+  ![Platform](https://shields.io)
+  ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
+  ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 </div>
 
 ---
 
 ## About
 
-GitHub is an essential tool for developers, but its mobile experience can be improved.
+GitHub is an essential tool for developers, but its official mobile app is mostly built for viewing rather than getting real work done.
 
-**OctoGit** aims to rethink the way developers interact with GitHub on their mobile devices.
+**OctoGit** rethinks how developers interact with their repositories on the go.
 
-The goal is simple: create a cleaner, more intuitive and easier-to-use mobile client that brings the most important GitHub features together in one place.
+The goal is simple: combine a clean, OLED-friendly interface with genuine editing tools, fast gesture controls, and built-in security features in one place.
 
-**No unnecessary complexity. No overwhelming interface. Just GitHub, redesigned for mobile.**
-
-## Features
+**Not just a viewer. A true mobile workspace for GitHub.**
 
 ## Features
 
 | Feature | Description |
 |:---|:---|
-| **Modern Interface** | A clean and carefully designed interface focused on usability. |
-| **Mobile First** | Designed specifically for comfortable mobile interaction. |
-| **Simplified Experience** | Access the things you need without unnecessary navigation. |
-| **GitHub Integration** | Your GitHub activity and repositories in one convenient place. |
-| **Useful Widgets** | Helpful information and shortcuts presented in an organized way. |
+| **Real Code & README Editing** | Edit files, update documentation, and upload assets directly from your phone. |
+| **Gesture-First Navigation** | Swipe to mark notifications as read, pin important repositories, or manage items quickly. |
+| **Releases Management** | View, create, and manage repository releases right from the main repo view. |
+| **Built-in 2FA Authenticator** | Integrated two-factor authentication support so you never have to switch apps to log in. |
+| **Clean OLED Dark UI** | Distraction-free, battery-friendly dark design tailored for one-handed use. |
+
 ## The Vision
 
-The official GitHub mobile application provides powerful functionality, but navigating a large development platform on a small screen can sometimes feel complicated.
+Navigating a full development platform on a small screen shouldn't feel clunky. OctoGit focuses on three core principles:
 
-OctoGit focuses on three main principles:
-
-- **Simplicity** — Less clutter, more clarity.
-- **Usability** — Intuitive navigation and accessible actions.
-- **Efficiency** — Get things done with fewer steps.
-
-The idea isn't to replace GitHub itself, but to offer a better way to interact with it on mobile.
-
-## Technology
-
-Built with modern mobile development technologies.
-
-*More technical details will be added as development progresses.*
+- **Actionable** — Edit files, manage releases, and ship updates right from your phone.
+- **Fluid** — Intuitive swipe gestures replace unnecessary taps and menus.
+- **All-in-One** — Repositories, notifications, and 2FA unified in a single fast app.
 
 ## Roadmap
 
-- [ ] Core GitHub integration
-- [ ] Repository browsing
-- [ ] Modern mobile dashboard
-- [ ] Improved navigation
-- [ ] Customizable widgets
-- [ ] Notifications and activity overview
-- [ ] Further UI and performance improvements
+- [x] GitHub authentication & account overview
+- [x] Repository browser & file tree viewer
+- [ ] Direct file & README editor with file uploads
+- [ ] Quick-access Releases bar
+- [ ] Swipe gestures (notifications, pinning, deletion)
+- [ ] Built-in 2FA (TOTP) authenticator
+- [ ] First public release on GitHub & Orion Store
 
 ## Contributing
 
-Contributions, ideas and suggestions are welcome!
+Contributions, ideas, and suggestions are always welcome!
 
 If you have an idea that could make the mobile GitHub experience better, feel free to open an issue or submit a pull request.
 
