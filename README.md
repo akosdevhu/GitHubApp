@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="file_0000000001b881f4ba63a899f64c4f64.png"
-       width="100%"
+       width="1200"
        alt="GitHub App Banner" />
 </div>
 
