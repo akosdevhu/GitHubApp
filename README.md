@@ -25,7 +25,7 @@ A modern, simplified GitHub client designed to make your everyday GitHub experie
 
 ---
 
-## ✨ About
+## About
 
 GitHub is an essential tool for developers, but its mobile experience can be improved.
 
@@ -35,17 +35,17 @@ The goal is simple: create a cleaner, more intuitive and easier-to-use mobile cl
 
 **No unnecessary complexity. No overwhelming interface. Just GitHub, redesigned for mobile.**
 
-## 🚀 Features
+## Features
 
 | | Feature | Description |
 |:---:|---|---|
-| 🎨 | **Modern Interface** | A clean and carefully designed interface focused on usability. |
-| 📱 | **Mobile First** | Designed specifically for comfortable mobile interaction. |
-| ⚡ | **Simplified Experience** | Access the things you need without unnecessary navigation. |
-| 🔗 | **GitHub Integration** | Your GitHub activity and repositories in one convenient place. |
-| 🧩 | **Useful Widgets** | Helpful information and shortcuts presented in an organized way. |
+|**Modern Interface** | A clean and carefully designed interface focused on usability. |
+|**Mobile First** | Designed specifically for comfortable mobile interaction. |
+|**Simplified Experience** | Access the things you need without unnecessary navigation. |
+|**GitHub Integration** | Your GitHub activity and repositories in one convenient place. |
+|**Useful Widgets** | Helpful information and shortcuts presented in an organized way. |
 
-## 📱 The Vision
+## The Vision
 
 The official GitHub mobile application provides powerful functionality, but navigating a large development platform on a small screen can sometimes feel complicated.
 
@@ -63,7 +63,7 @@ Built with modern mobile development technologies.
 
 *More technical details will be added as development progresses.*
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -77,7 +77,7 @@ Built with modern mobile development technologies.
 
 </div>
 
-## 🗺️ Roadmap
+## Roadmap
 
 - [ ] Core GitHub integration
 - [ ] Repository browsing
@@ -87,13 +87,13 @@ Built with modern mobile development technologies.
 - [ ] Notifications and activity overview
 - [ ] Further UI and performance improvements
 
-## 🤝 Contributing
+## Contributing
 
 Contributions, ideas and suggestions are welcome!
 
 If you have an idea that could make the mobile GitHub experience better, feel free to open an issue or submit a pull request.
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.
 
