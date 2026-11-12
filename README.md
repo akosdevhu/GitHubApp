@@ -37,7 +37,7 @@ The goal is simple: create a cleaner, more intuitive and easier-to-use mobile cl
 
 ## Features
 
-| | Feature | Description |
+| | Feature |
 |:---:|---|---|
 |**Modern Interface** | A clean and carefully designed interface focused on usability. |
 |**Mobile First** | Designed specifically for comfortable mobile interaction. |
@@ -57,25 +57,11 @@ GitHub App focuses on three main principles:
 
 The idea isn't to replace GitHub itself, but to offer a better way to interact with it on mobile.
 
-## 🛠️ Technology
+## Technology
 
 Built with modern mobile development technologies.
 
 *More technical details will be added as development progresses.*
-
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="70%" />
-
-</div>
 
 ## Roadmap
 
