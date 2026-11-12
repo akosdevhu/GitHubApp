@@ -3,7 +3,7 @@
 
 <div align="center">
   <img src="banner.png"
-       width="1200"
+       width="200%"
        alt="OctoGit Banner" />
 </div>
 
