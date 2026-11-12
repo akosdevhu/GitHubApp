@@ -9,8 +9,6 @@
 
 <br/>
 
-# OctoGit
-
 ### A better way to experience GitHub on mobile.
 
 A modern, simplified GitHub client designed to make your everyday GitHub experience smoother, faster and more intuitive.
