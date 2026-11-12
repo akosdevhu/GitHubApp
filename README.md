@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="assets/github-app-banner.png" width="100%" alt="GitHub App Banner" />
+<img src="file_0000000001b881f4ba63a899f64c4f64.png" width="100%" alt="GitHub App Banner" />
 
 <br/>
 
