@@ -12,8 +12,8 @@
   <br/>
 
   ![Platform](https://shields.io)
-  ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
-  ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+  ![Status](https://shields.io)
+  ![License](https://shields.io)
 </div>
 
 ---
@@ -58,7 +58,7 @@ Navigating a full development platform on a small screen shouldn't feel clunky. 
 
 ## Contributing
 
-Contributions, ideas, and suggestions are always welcome!
+Contributions, ideas and suggestions are always welcome!
 
 If you have an idea that could make the mobile GitHub experience better, feel free to open an issue or submit a pull request.
 
@@ -76,6 +76,6 @@ This project is licensed under the **MIT License**.
 
 <br/><br/>
 
-![Made with passion](https://img.shields.io/badge/Made%20with-Passion-blue?style=flat-square)
+![Made with passion](https://shields.io)
 
 </div>
