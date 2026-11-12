@@ -29,7 +29,7 @@ A modern, simplified GitHub client designed to make your everyday GitHub experie
 
 GitHub is an essential tool for developers, but its mobile experience can be improved.
 
-**GitHub App** aims to rethink the way developers interact with GitHub on their mobile devices.
+**OctoGit** aims to rethink the way developers interact with GitHub on their mobile devices.
 
 The goal is simple: create a cleaner, more intuitive and easier-to-use mobile client that brings the most important GitHub features together in one place.
 
@@ -50,7 +50,7 @@ The goal is simple: create a cleaner, more intuitive and easier-to-use mobile cl
 
 The official GitHub mobile application provides powerful functionality, but navigating a large development platform on a small screen can sometimes feel complicated.
 
-GitHub App focuses on three main principles:
+OctoGit focuses on three main principles:
 
 - **Simplicity** — Less clutter, more clarity.
 - **Usability** — Intuitive navigation and accessible actions.
