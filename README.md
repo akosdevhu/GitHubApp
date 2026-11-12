@@ -11,10 +11,9 @@
 
   <br/>
 
-![Platform](https://shields.io)
-![Status](https://shields.io)
-![License](https://shields.io)
-
+  ![Platform](https://shields.io)
+  ![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)
+  ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 </div>
 
 ---
