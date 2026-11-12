@@ -11,9 +11,10 @@
 
   <br/>
 
-  ![Platform](https://shields.io)
-  ![Status](https://shields.io)
-  ![License](https://shields.io)
+![Platform](https://shields.io)
+![Status](https://shields.io)
+![License](https://shields.io)
+
 </div>
 
 ---
