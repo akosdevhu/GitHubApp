@@ -4,12 +4,12 @@
 <div align="center">
   <img src="banner.png"
        width="1200"
-       alt="GitHub App Banner" />
+       alt="OctoGit Banner" />
 </div>
 
 <br/>
 
-# GitHub App
+# OctoGit
 
 ### A better way to experience GitHub on mobile.
 
