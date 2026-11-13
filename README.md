@@ -90,8 +90,3 @@ This project is licensed under the **MIT License**.
 ![Made with passion](https://img.shields.io/badge/Made%20with-Passion-blue?style=flat-square)
 
 </div>
-<br/>
-
-<div align="center">
-OctoGit 2026 ©
-</div>
