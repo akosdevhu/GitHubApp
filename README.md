@@ -23,9 +23,7 @@ A modern, simplified GitHub client designed to make your everyday GitHub experie
 
 <br/>
 
-<div align="center">
 [![Get it on Orion Store](https://raw.githubusercontent.com/RookieEnough/Orion-Store/refs/heads/main/assets/orion-badge.png)](https://rookieenough.github.io/Orion-Data/app/?id=octogit)
-</div>
 
 <br/>
 
