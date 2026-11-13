@@ -93,5 +93,5 @@ This project is licensed under the **MIT License**.
 <br/>
 
 <div align="center">
-octogit 2026 ©
+OctoGit 2026 ©
 </div>
