@@ -1,15 +1,18 @@
 {
   "expo": {
-    "name": "GitHubApp",
+    "name": "OctoGit",
     "slug": "GitHubApp",
-    "version": "1.0.0",
+    "version": "0.0.0",
+    "scheme": "octogit",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.akosdevhu.githubapp"
     },
     "android": {
+      "package": "com.akosdevhu.githubapp",
       "adaptiveIcon": {
         "backgroundColor": "#E6F4FE",
         "foregroundImage": "./assets/android-icon-foreground.png",
@@ -19,6 +22,15 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-secure-store",
+      "expo-web-browser"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "9c539a2a-0604-465b-a4fc-f6d5eedabd05"
+      }
     }
   }
 }
